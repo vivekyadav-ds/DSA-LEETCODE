@@ -15,4 +15,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
