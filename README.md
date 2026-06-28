@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,8 +43,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
