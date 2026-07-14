@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 ## Math
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Design
@@ -56,9 +59,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0190-reverse-bits/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
