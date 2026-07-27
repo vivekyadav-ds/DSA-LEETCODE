@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Trie
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Design
 |  |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
