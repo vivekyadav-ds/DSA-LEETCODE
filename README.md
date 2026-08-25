@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
