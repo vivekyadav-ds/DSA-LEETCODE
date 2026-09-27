@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -104,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
