@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Merge Sort
 |  |
 | ------- |
