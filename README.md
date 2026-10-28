@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -134,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
