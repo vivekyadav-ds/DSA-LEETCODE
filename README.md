@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek4715/DSA-LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vivekyadav-ds/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
